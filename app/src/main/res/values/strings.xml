@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">COURSEWORK JAVA</string>
+
+    <string-array name="propertyType">
+        <item>Flat</item>
+        <item>House</item>
+        <item>Bungalow</item>
+    </string-array>
+
+    <string-array name="bedroom">
+        <item>Studio</item>
+        <item>1 room</item>
+        <item>2 rooms</item>
+        <item>3 rooms</item>
+        <item>4 rooms</item>
+    </string-array>
+
+    <string-array name="furnitureType">
+        <item>Furnished</item>
+        <item>Unfurnished</item>
+        <item>Part Furnished</item>
+    </string-array>
+    <string name="endDate_startDate">End date must be after start date</string>
+    <string name="startDate_currentDate">Start date must be after current date</string>
+</resources>
